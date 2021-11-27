@@ -5,9 +5,18 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m William Schnaider Torres Bermon'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Software Engineer with emphasis on development and management of
+      information systems. I have experience as a Full-stack developer and
+      technical leader.
+
+
+      I am characterized by being energetic, responsible, committed, dynamic,
+      with a critical sense, with leadership skills and in constant search for
+      excellence. I like to be in a continuous process of training and growth,
+      willing to take on new challenges and experiences. I like to work in a
+      team and I see problems as an opportunity to learn and develop innovative
+      solutions.
     actions:
       - label: Let's talk
         url: /contact
